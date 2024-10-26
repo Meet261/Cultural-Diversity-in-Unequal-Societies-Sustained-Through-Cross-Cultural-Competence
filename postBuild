@@ -1,0 +1,8 @@
+Conflicting packages to Conda-forge
+#!/bin/bash
+
+# Install R packages directly from CRAN in Binder environment
+R -e "install.packages('bibliometrix', repos='http://cran.r-project.org')"
+R -e "install.packages('rscopus', repos='http://cran.r-project.org')"
+R -e "install.packages('jtools', repos='http://cran.r-project.org')"
+R -e "install.packages('rowr', repos='http://cran.r-project.org')"
