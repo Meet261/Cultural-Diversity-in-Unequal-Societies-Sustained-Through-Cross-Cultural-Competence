@@ -12,7 +12,7 @@ dependencies:
   - r-rcpp
   - r-coda
   - r-ggplot2
-  - r-bibliometrix
-  - r-rscopus
+  - r-bibliometrix=3.1
+  - r-rscopus=0.6
   - r-jtools
   - r-rowr
