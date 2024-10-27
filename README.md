@@ -7,3 +7,8 @@ Project Name : Cultural Diversity in Unequal Societies Sustained Through Cross-C
 | **File Name**           | **Dependencies**                                                                                           | **Reproducibility Status** | **Issue/Obstacle**                                                                                  |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | `Functions_IRT.R`  | `r-base=4.2`, `r-tidyverse`, `r-mvtnorm`, `r-knitr`, `r-rmarkdown`, `r-devtools`, `r-rcpp`, `r-coda`, `r-ggplot2` | Reproducible               | No issues found.                                                                                    |
+
+## Acknowledgments
+
+This project uses data and resources from [Cultural Diversity in Unequal Societies Sustained Through Cross-Cultural Competence and Identity Valuation](https://osf.io/a3yd4/). We acknowledge the contributions of the authors of the original project. Please refer to the [Cultural Diversity in Unequal Societies Sustained Through Cross-Cultural Competence and Identity Valuation](https://osf.io/a3yd4/) for more details.
+
