@@ -12,3 +12,8 @@ Project Name : Cultural Diversity in Unequal Societies Sustained Through Cross-C
 
 This project uses data and resources from [Cultural Diversity in Unequal Societies Sustained Through Cross-Cultural Competence and Identity Valuation](https://osf.io/a3yd4/). We acknowledge the contributions of the authors of the original project. Please refer to the [Cultural Diversity in Unequal Societies Sustained Through Cross-Cultural Competence and Identity Valuation](https://osf.io/a3yd4/) for more details.
 
+## Acknowledgments
+
+This project uses data and resources from [Data and R code for: "Collaboration enhances career progression in academic science, especially for female researchers"](https://osf.io/7v4ep/). We acknowledge the contributions of the authors of the original project. Please refer to the [Data and R code for: "Collaboration enhances career progression in academic science, especially for female researchers"](https://osf.io/7v4ep/) for more details.
+
+
